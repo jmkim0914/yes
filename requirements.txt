@@ -1,0 +1,9 @@
+streamlit
+supabase
+openai
+langchain-core
+langchain-openai
+langchain-anthropic
+langchain-google-genai
+langchain-text-splitters
+pypdf
