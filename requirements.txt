@@ -7,3 +7,4 @@ langchain-anthropic
 langchain-google-genai
 langchain-text-splitters
 pypdf
+python-dotenv
